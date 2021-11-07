@@ -7,7 +7,7 @@ Thema: ?
 
 HTML-Dokumentenanzahl: min. 10
 
-iel: In sich geschlossenes, abwechslungsreiches, lustiges, halbwegs schön gestaltetes und 
+Ziel: In sich geschlossenes, abwechslungsreiches, lustiges, halbwegs schön gestaltetes und 
       strukturiertes HTML/CSS Projekt. 
 
 Noch zu ergänzen: Video, sounddatei, Formulare, interaktion, styling
