@@ -1,0 +1,19 @@
+body {
+    background-color: darkred;
+    text-align: center;
+}
+h1 {
+    font-family: fantasy;
+    font-size: 100px;
+    color: ivory;
+    letter-spacing: 3px;
+}
+img {
+    height: 460px;
+    width: 690px;
+}
+p {
+    font-size: 30px;
+    color: ivory;
+    font-family: sans-serif;
+}
