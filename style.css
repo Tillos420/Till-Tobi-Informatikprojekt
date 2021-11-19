@@ -49,9 +49,12 @@ q {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
 }
-input {
-    width: 100px;
-    height: 30px;
+form {
     margin: 200px;
-    border: lime;
+    padding: 5px;
+}
+input {
+    height: 30px;
+    padding: 2px;
+    width: 100px;
 }
