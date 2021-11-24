@@ -49,6 +49,7 @@ q {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
 }
+<<<<<<< HEAD
 input {
     width: 160px;
     height: 30px;
@@ -56,4 +57,20 @@ input {
 }
 #submit {
     margin: 0;
+=======
+form {
+    margin: 200px;
+    padding: 5px;
+}
+#IBAN {
+    height: 30px;
+    padding: 2px;
+    margin: 10px;
+    width: 100px;
+}
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: ivory;
+>>>>>>> ef58a4cbfd01d7fa80dc234dcb490a00f724e4ae
 }
