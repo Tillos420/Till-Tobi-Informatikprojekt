@@ -50,8 +50,10 @@ q {
     font-size: 50px;
 }
 input {
-    width: 100px;
+    width: 160px;
     height: 30px;
-    margin: 200px;
-    border: lime;
+    margin-top: 200px;
+}
+#submit {
+    margin: 0;
 }
